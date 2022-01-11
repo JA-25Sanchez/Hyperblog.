@@ -5,7 +5,5 @@ aprendiendo programacion
 
 Aqui comienza una nueva historia, esperando lo mejor
 
-a finales de año se espera tener finiquitado el tema de estudio
-
-se espera a final de año finiquitar el tema de estudio
+mañana nos enfocaremos en programacion html
 
