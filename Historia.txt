@@ -1,11 +1,9 @@
-Esta es la historia de como Jeison Sanchez inicio en la programacion
+Ejemplo de cambio total en las lineas de proyecto
 
-Martes 18 de octubre inicio de curso Git GitHub
+Este es el inicio de la historia de Jeison
 
-jeison tiene 27 anios
+Prueba con el comando git diff
 
-hoy inicia la historia
+comparando version anterior con esta actual
 
-parece dificil pero se lograra
-
-actualmente es mecanico
+martes 10 de octubre, 7:57pm 
