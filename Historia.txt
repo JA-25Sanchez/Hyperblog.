@@ -1,9 +1,7 @@
-Ejemplo de cambio total en las lineas de proyecto
+esta es la historia de jeison sanchez	
 
-Este es el inicio de la historia de Jeison
+jeison sanchez tiene 27 años y nacio en colombia
 
-Prueba con el comando git diff
+viviendo en todo el mundo
 
-comparando version anterior con esta actual
-
-martes 10 de octubre, 7:57pm 
+hoy hablaremos de su vida 
